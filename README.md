@@ -101,3 +101,32 @@ It was created to:
 
 This wireframe intentionally avoids detailed styling or branding, focusing instead on functionality and user experience at a structural level.
 
+## Popular Wireframing Tools
+
+Wireframing can be done using a variety of tools, each offering different levels of fidelity, collaboration, and ease of use. Choosing the right tool depends on your workflow, team size, and design goals. Below are some widely used wireframing tools:
+
+- **Figma**: A cloud-based design tool known for its real-time collaboration, intuitive interface, and flexible component system.
+- **Sketch**: A macOS-based design tool popular for high-fidelity UI design and prototyping.
+- **Adobe XD**: Offers wireframing, prototyping, and design features with seamless integration into the Adobe ecosystem.
+- **Balsamiq**: Focuses on low-fidelity wireframes with a hand-drawn aesthetic, ideal for early-stage brainstorming.
+- **Axure RP**: Provides advanced functionality for creating interactive wireframes and complex user flows.
+
+### Recommended Tool: Figma
+
+Figma is highly recommended for wireframing due to its versatility and collaborative features. It allows multiple team members to work on the same file simultaneously, making it ideal for remote teams and fast-paced projects.
+
+**Key Features**:
+- Browser-based with no installation required
+- Real-time collaboration and commenting
+- Reusable components and design systems
+- Easy export to code-friendly formats
+- Supports both low-fidelity and high-fidelity wireframes
+
+**Why It’s Useful**:
+Figma streamlines the wireframing process by combining design, prototyping, and feedback into a single platform. Its intuitive interface and powerful layout tools make it easy to sketch out ideas quickly and iterate based on team input. Whether you're mapping out a basic layout or preparing a detailed mockup for development, Figma adapts to your workflow.
+
+---
+
+This section helps readers understand the tools available and why Figma stands out as a practical choice for modern wireframing.
+
+
