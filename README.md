@@ -57,3 +57,47 @@ Wireframes are composed of several foundational elements that guide the structur
 
 
 By incorporating these elements thoughtfully, wireframes serve as a reliable foundation for building user-friendly and effective digital experiences.
+
+## Types of Wireframes
+
+Wireframes vary in complexity depending on the stage of the design process and the goals of the team. The two most common types are low-fidelity and high-fidelity wireframes.
+
+### Low-Fidelity Wireframes
+
+**Definition**: These are basic, often hand-drawn or digitally sketched wireframes that focus on layout and structure without detailed styling or interactivity.
+
+**Characteristics**:
+- Simple shapes and placeholders (e.g., boxes for images, lines for text)
+- No color, branding, or typography
+- Minimal detail, used to explore layout ideas
+
+**Use Case**: Ideal during the early stages of design when brainstorming layout options, gathering stakeholder feedback, or aligning on user flow before investing in detailed design.
+
+**Example**: A grayscale sketch showing a homepage with a header, navigation bar, content blocks, and footer—without any actual content or styling.
+
+### High-Fidelity Wireframes
+
+**Definition**: These are detailed wireframes that closely resemble the final design in terms of layout, typography, spacing, and sometimes interactivity.
+
+**Characteristics**:
+- Precise spacing, fonts, and element sizing
+- May include sample content and branding elements
+- Often created with design tools like Figma, Adobe XD, or Sketch
+
+**Use Case**: Used in later stages of design to validate usability, prepare for prototyping, or hand off to developers with clear specifications.
+
+**Example**: A pixel-perfect wireframe of a product page showing styled buttons, dropdowns, and sample product data, ready for user testing or development.
+
+---
+
+## Wireframe Type Used in This Project
+
+The wireframe included in this project is a **low-fidelity wireframe**.
+
+It was created to:
+- Establish the basic layout and structure of the interface
+- Identify key content areas and navigation flow
+- Facilitate early feedback and iteration before visual design begins
+
+This wireframe intentionally avoids detailed styling or branding, focusing instead on functionality and user experience at a structural level.
+
